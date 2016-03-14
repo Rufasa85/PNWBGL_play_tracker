@@ -1,0 +1,25 @@
+{
+  "name": "PNWBGL_play_tracker",
+  "version": "0.0.0",
+  "description": "track your plays easier!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rufasa85/PNWBGL_play_tracker.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/PNWBGL_play_tracker/issues"
+  },
+  "dependencies": {
+    "express-ejs-layouts": "~2.0.0",
+    "ejs": "~2.4.1",
+    "express": "~4.13.4",
+    "body-parser": "~1.15.0",
+    "mongoose": "~4.4.7"
+  }
+}
